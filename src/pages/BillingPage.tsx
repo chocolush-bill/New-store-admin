@@ -318,7 +318,7 @@ const BillingPage = () => {
             </div>
             <div className="border-t border-dashed border-gray-300 pt-3 text-center text-gray-600">
               <p>Thank you for shopping with Chocolush 🍫✨</p>
-              <p>Instagram: @chocolush</p>
+              <p>Instagram: @_chocolush._</p>
               <p>WhatsApp: +91 9400667313</p>
             </div>
           </div>
